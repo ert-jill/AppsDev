@@ -1,0 +1,9 @@
+D:\appsdev\new\new\bin\Debug\@new.exe.config
+D:\appsdev\new\new\bin\Debug\@new.exe
+D:\appsdev\new\new\bin\Debug\@new.pdb
+D:\appsdev\new\new\obj\Debug\new.csprojResolveAssemblyReference.cache
+D:\appsdev\new\new\obj\Debug\new.Form1.resources
+D:\appsdev\new\new\obj\Debug\new.Properties.Resources.resources
+D:\appsdev\new\new\obj\Debug\new.csproj.GenerateResource.Cache
+D:\appsdev\new\new\obj\Debug\@new.exe
+D:\appsdev\new\new\obj\Debug\@new.pdb
